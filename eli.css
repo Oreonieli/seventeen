@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+    color: brown;
+}
+
+h1{
+    color: brown;
+    font-family: 'Times New Roman', serif;
+}
+h3{
+    color: brown;
+}
+h2{
+    color: rgb(105, 51, 51);
+    font-family: 'Courier New', monospace;
+    font-size: medium;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(88, 39, 39);
+    border: none;
+    color: aliceblue;
+    padding: 10px 25px;
+    font-size: 12px;
+}
+
+h4{
+    color: rgb(95, 63, 63);
+}
+/* UNVISITED LINK*/
+a:link{
+    color: rgb(63, 5, 5);
+}
+/*VISITED LINK*/
+a:visited{
+    color: rgb(105, 51, 51);
+}
+/*mouse over link*/
+a:hover{
+    color: black;
+}
